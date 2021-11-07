@@ -1,9 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-three-inky.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/aggosgr)
-
+[![Spotify](https://novatorem-aggeloskatsaliros.vercel.app/api/spotify)](https://open.spotify.com/user/aggosgr)
 
 
 ## 🙋‍♂️ About Me
