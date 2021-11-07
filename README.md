@@ -12,9 +12,9 @@
 
 <!--- 🔭 I’m currently working on **[Bug Tracker](https://covid-19-tracker-e4bda.web.app/)**-->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Spring Boot.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Currently Building a  **Bugtracker Project**
 
 - 📫 How to reach me **aggeloskatsaliros@hotmail.com**
 
