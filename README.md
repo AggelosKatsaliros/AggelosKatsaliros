@@ -1,7 +1,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https:novatorem-aggeloskatsaliros.vercel.app/api/spotify)](https://open.spotify.com/user/aggosgr)
+[![Spotify](https:spotifyplaying-henna.vercel.app/api/spotify)](https://open.spotify.com/user/aggosgr)
 
 
 ## 🙋‍♂️ About Me
