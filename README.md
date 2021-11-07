@@ -1,7 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aggelos</h1>
-<h3 align="center">I'm a passionate Developer from Greece.</h3>
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-three-inky.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/aggosgr)
+
 
 
 ## 🙋‍♂️ About Me
