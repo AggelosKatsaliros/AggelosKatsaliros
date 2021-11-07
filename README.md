@@ -1,7 +1,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https:novatorem-rust-two.vercel.app/api/spotify)](https://open.spotify.com/user/aggosgr)
+[![Spotify](https:novatorem-duq2vpupn-aggeloskatsaliros.vercel.app/api/spotify)](https://open.spotify.com/user/aggosgr)
 
 
 ## 🙋‍♂️ About Me
