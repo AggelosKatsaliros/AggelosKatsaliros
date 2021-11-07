@@ -1,7 +1,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-rust-two.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/aggosgr)
+[![Spotify](https:novatorem-rust-two.vercel.app/api/spotify)](https://open.spotify.com/user/aggosgr)
+
 
 ## 🙋‍♂️ About Me
 
