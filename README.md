@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aggeloskatsaliros@hotmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
