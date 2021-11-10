@@ -63,8 +63,4 @@
 <a href = "https://www.linkedin.com/in/aggelos-katsaliros-440903b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AggelosKatsaliros">
-</a>
-<a href="https://github.com/AggelosKatsaliros?tab=followers"><img src="https://img.shields.io/github/followers/AggelosKatsaliros?label=Followers&style=social" alt="GitHub Badge"></a>
+
