@@ -16,7 +16,7 @@
 
 - 👯 Currently Building a  **Bugtracker Project**
 
-- 📫 How to reach me **aggeloskatsaliros@hotmail.com**
+- 📫 How to reach me **aggeloskatsaliros@outlook.com**
 
 - ⚡ Fun fact **I play games and go to the GYM.**
 
